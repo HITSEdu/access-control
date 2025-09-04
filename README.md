@@ -7,8 +7,8 @@
 - [ ] Эмуляция замка
 
 **Стек**
-- [ ] Сервер - FastAPI [[Репозиторий с фронтендом]](https://github.com/HITSEdu/access-control-api)
-- [ ] Клиент администратора - React [[Репозиторий с бекендом]](https://github.com/HITSEdu/access-control-frontend)
+- [ ] Сервер - FastAPI [[Репозиторий с бекендом]](https://github.com/HITSEdu/access-control-api)
+- [ ] Клиент администратора - React [[Репозиторий с фронтендом]](https://github.com/HITSEdu/access-control-frontend)
 - [ ] Эмуляция ключа и замка - C++
 - [ ] Алгоритм - OpenSSL(HMAC SHA256)
 
